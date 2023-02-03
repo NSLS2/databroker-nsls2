@@ -2,6 +2,6 @@ hdf5plugin  # The HDF5 LZ4 plugin is used by some Area Detectors. One example is
 area-detector-handlers
 ldap3
 pillow
-psycopg2
+psycopg2-binary
 pymongo
 zarr  # databroker.experimental dep
