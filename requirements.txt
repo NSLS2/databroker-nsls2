@@ -4,4 +4,3 @@ area-detector-handlers
 ldap3
 pillow
 pymongo
-zarr  # databroker.experimental dep
