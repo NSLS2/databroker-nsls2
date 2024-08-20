@@ -1,4 +1,4 @@
-FROM ghcr.io/bluesky/databroker:v2.0.0b46 as base
+FROM ghcr.io/bluesky/databroker:v2.0.0b47 as base
 
 # git is used only for the pip install git+https:// below and can be
 # removed once that is no longer used.
