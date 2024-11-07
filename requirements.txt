@@ -4,3 +4,4 @@ ldap3
 nsls2-detector-handlers>=0.1.0
 pillow
 pymongo
+slack_sdk
