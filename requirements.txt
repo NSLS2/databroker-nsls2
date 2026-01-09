@@ -1,4 +1,5 @@
 area-detector-handlers
+bluesky-tiled-plugins
 hdf5plugin  # The HDF5 LZ4 plugin is used by some Area Detectors. One example is the Eigers at CHX.
 ldap3
 nsls2-detector-handlers>=0.1.0
