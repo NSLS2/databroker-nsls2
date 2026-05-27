@@ -1,4 +1,4 @@
-FROM ghcr.io/bluesky/tiled:0.2.10-rc2 as base
+FROM ghcr.io/bluesky/tiled:0.2.11 as base
 
 USER root
 
